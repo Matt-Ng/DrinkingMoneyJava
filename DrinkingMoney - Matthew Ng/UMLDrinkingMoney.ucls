@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Destination" project="DrinkingMoney" file="/DrinkingMoney/src/Destination.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="94" y="-67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="DrinkingMoneyGame" project="DrinkingMoney" 
+    file="/DrinkingMoney/src/DrinkingMoneyGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="141" x="328" y="-67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Play" project="DrinkingMoney" file="/DrinkingMoney/src/Play.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="194" x="509" y="-67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="IngredientsShop" project="DrinkingMoney" 
+    file="/DrinkingMoney/src/IngredientsShop.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="743" y="-67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="DrinkingMoney" project="DrinkingMoney" 
+    file="/DrinkingMoney/src/DrinkingMoney.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="675" width="178" x="977" y="-67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="DrinkRecipe" project="DrinkingMoney" file="/DrinkingMoney/src/DrinkRecipe.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1195" y="-67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="StartClass" project="DrinkingMoney" file="/DrinkingMoney/src/StartClass.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1429" y="-67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Instructions" project="DrinkingMoney" file="/DrinkingMoney/src/Instructions.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1663" y="-67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
